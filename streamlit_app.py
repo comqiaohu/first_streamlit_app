@@ -7,7 +7,7 @@ my_fruit_list=my_fruit_list.set_index('Fruit')
 
 streamlit.title('My Parents New Healthy Dinner')
 
-streamlit.header('Breakfast Menu')
+streamlit.header('Fruityvice Fruit Advice!')
 
 streamlit.text('Omega 3 & Blueberry Oatmeal')
 
